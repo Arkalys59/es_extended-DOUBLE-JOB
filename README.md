@@ -13,7 +13,7 @@ In my server I use the b1g_notify notification system slightly modified by me wi
 - Start the resource in the server.cfg
 ```
 
-## ! Utilizzo !
-Ho inserito un comando che si richiama digitando ```/setjob2 [ID] [lavoro] [grado]``` per settare il secondo lavoro di un player.
-Qualsiasi lavoro può essere settato come secondo lavoro ma se non è configurato non funzionerà.
-Per la configurazione vi basterà andare nei file di qualsiasi vostro lavoro e cambiare le condizioni che verificano il lavoro del player da PlayerData.job a PlayerData.job2. La risorsa supporta anche il secondo stipendio sia da una società (richiede esx_society) sia normalmente, ma per avere la gestione dell'azienda come secondo lavoro dovrete creare una modifica di esx_society.
+## ! Use !
+I entered a command that is called by typing ```/ setjob2 [ID] [job] [grade]``` to set the second job of a player.
+Any job can be set as a second job but if it is not configured it will not work.
+For the configuration, just go to the files of any of your work and change the conditions that verify the player's work from PlayerData.job to PlayerData.job2. The resource also supports second salary both from a company (requires esx_society) and normally, but to have company management as a second job you will need to create an esx_society modification.
