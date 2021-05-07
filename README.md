@@ -3,8 +3,12 @@
 
 This resource was modified by me for my FiveM server called Eureka RP (https://discord.io/eurekarp if you want to enter), it's an Italian server set in Los Angeles.
 
+## ! REQUIREMENTS !
+- B1G_Notify: https://github.com/alebozz3/B1G-Notify-with-Sound-Notifications
+- Interact-sound: https://github.com/plunkettscott/interact-sound
+
 ## ! WARNING !
-In my server I use the b1g_notify notification system slightly modified by me with some more events and notifications that also play a sound (via Interact sound https://github.com/plunkettscott/interact-sound), so for a complete functioning of es_extended you should download this system too from my GitHub (https://github.com/alebozz3/B1G-Notify-with-Sound-Notifications), otherwise you can restore the standard notifications by commenting on what I have modified.
+B1G_Notify is required, instead interact-sound is only needed if you want some notifications to reproduce sounds as well
 
 ## ! Installation !
 ```
